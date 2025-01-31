@@ -1,5 +1,5 @@
-##📌 Project Title
-###Pune Housing Data Analysis Dashboard
+📌 Project Title
+Pune Housing Data Analysis Dashboard
 🏡 Project Overview
 This project is a Power BI Dashboard analyzing Pune's housing market, including price trends, property categories, and furnishing status. The dashboard provides insights into different housing types and price distributions based on location, number of balconies, and furnishing status.
 
